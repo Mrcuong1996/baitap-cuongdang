@@ -1,5 +1,10 @@
-.App {
+body {
   text-align: center;
+  padding: 100px;
+}
+
+input {
+  margin-bottom: 10px;
 }
 
 .App-logo {
